@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, sans-serif;
+  background: rgb(15,76,129);
+  background: linear-gradient(90deg, rgba(15,76,129,1) 0%, rgba(10,143,134,1) 100%);
+}
